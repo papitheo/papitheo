@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with **Mobile Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/papitheo?tab=repositories](https://github.com/papitheo?tab=repositories)
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **towusu26@my.whitworth.edu**
