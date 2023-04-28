@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Application](https://github.com/papitheo/my_edwom_project)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and Python**
 
 - 👯 I’m looking to collaborate on **Mobile Development**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **towusu26@my.whitworth.edu**
+- 📫 How to reach me **owusutheophilus2022@gmail.com**
 
 - ⚡ Fun fact **I love to explore**
 
