@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Theophilus Owusu</h1>
-<h3 align="center">A passionate flutter Developer</h3>
+<h3 align="center">A passionate Mobile App Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+//<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papitheo&label=Profile%20views&color=0e75b6&style=flat" alt="papitheo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kofitheo_" target="blank"><img src="https://img.shields.io/twitter/follow/kofitheo_?logo=twitter&style=for-the-badge" alt="kofitheo_" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Application](https://github.com/papitheo/my_edwom_project)
+- 🔭 I’m currently working on [E-Commerce Mobile Application](https://github.com/papitheo/my_edwom_project)
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **Python (Django)**
 
 - 👯 I’m looking to collaborate on **Mobile Development**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **owusutheophilus2022@gmail.com**
+- 📫 How to reach me **towusu26@my.whitworth.edu/owusutheophilus2022@gmail.com**
 
 - ⚡ Fun fact **I love to explore**
 
